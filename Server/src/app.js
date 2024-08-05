@@ -6,7 +6,7 @@ const movieRoutes = require("./routes/movieRoutes");
 const theatreRoutes = require("./routes/theatreRoutes");
 const showRoutes = require("./routes/showRoutes");
 const bookingRoutes = require("./routes/bookingRoutes");
-
+// adding a comment
 const app = express();
 
 app.use(cors());
